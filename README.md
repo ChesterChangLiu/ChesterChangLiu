@@ -1,7 +1,5 @@
 
 # GitHub-Stats
-
-## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ChesterChangLiu&show_icons=true)
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterChangLiu&theme=blue-green)
