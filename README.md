@@ -1,13 +1,3 @@
-
-# GitHub-Stats
-![Chester's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChesterChangLiu&show_icons=true&theme=radical)
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterChangLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=ChesterChangLiu)
-
-
 <h1 align="center">Hi 👋, I'm Chang Liu</h1>
 <h3 align="center">A passionate frontend developer based in Toronto</h3>
 
@@ -22,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me: changliuchangliu@hotmail.com</h3>
+
 <p align="left">
 </p>
 
