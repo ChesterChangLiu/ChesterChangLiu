@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chang Liu</h1>
-<h3 align="center">A passionate frontend developer based in Toronto</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chesterchangliu&label=Profile%20views&color=0e75b6&style=flat" alt="chesterchangliu" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&show_icons=true&theme=radical" alt="chesterchangliu" /></p>
