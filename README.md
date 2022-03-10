@@ -13,5 +13,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chesterchangliu" alt="chesterchangliu" /></a> </p>
 --->
 
-## 😋Random Joke Generator
+## 😄Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
