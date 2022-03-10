@@ -1,8 +1,8 @@
 
 # GitHub-Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ChesterChangLiu&show_icons=true)
+![Chester's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChesterChangLiu&show_icons=true&theme=radical)
 ## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterChangLiu&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterChangLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## Profile View Counter
