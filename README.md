@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chang Liu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chesterchangliu&label=Profile%20views&color=0e75b6&style=flat" alt="chesterchangliu" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&show_icons=true&theme=radical" alt="chesterchangliu" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chesterchangliu&show_icons=true&locale=en&layout=compact" alt="chesterchangliu" /></p>
+<img align="" height="156px" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="156px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesterchangliu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+
+<p><img align=""height="168px" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&&hide_title=true&hide_border=true&show_icons=true&theme=radical" alt="chesterchangliu" /><img align=""height="168px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chesterchangliu&show_icons=true&locale=en&layout=compact&theme=radical" alt="chesterchangliu" /></p>
 <br />
 
 ## 💻Languages and Tools
