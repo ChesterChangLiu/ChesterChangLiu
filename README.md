@@ -36,4 +36,4 @@
 --->
 
 ## Random Joke Generator😄
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Joke](https://readme-jokes.vercel.app/api) &theme=radicial
