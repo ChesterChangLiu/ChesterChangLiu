@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chesterchangliu&label=Profile%20views&color=0e75b6&style=flat" alt="chesterchangliu" /> </p>
+
 ## GitHub Stats✨
 
 <img align="" height="150" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesterchangliu&hide_title=ture&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
@@ -35,5 +37,3 @@
 
 ## Random Joke Generator😄
 ![Joke](https://readme-jokes.vercel.app/api)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chesterchangliu&label=Profile%20views&color=0e75b6&style=flat" alt="chesterchangliu" /> </p>
