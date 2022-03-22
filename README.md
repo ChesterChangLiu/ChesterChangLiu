@@ -1,6 +1,8 @@
 <!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=chesterchangliu" alt="profile views" /> </p>--->
 <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=chesterchangliu.shields-io-visitor-counter&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square" alt="profile views" /> 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ## GitHub Stats✨
 
 <img align="" height="150" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesterchangliu&hide_title=ture&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
