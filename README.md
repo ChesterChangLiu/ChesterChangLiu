@@ -8,7 +8,9 @@
 <p><img align=""height="158px" src="https://github-readme-stats.vercel.app/api?username=chesterchangliu&hide_title=true&hide_border=true&show_icons=true&theme=radical" alt="chesterchangliu" /><img align=""height="138px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chesterchangliu&show_icons=true&locale=en&layout=compact&theme=radical" alt="chesterchangliu" /></p>
 <br />
 --->
+
 ## Languages and Tools🔨
+
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -39,4 +41,5 @@
 --->
 
 ## Random Joke Generator😄
+
 ![Joke](https://readme-jokes.vercel.app/api)
